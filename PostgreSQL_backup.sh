@@ -1,6 +1,6 @@
 #! /bin/bash
 
-my_password="MTQ4NTktc3RlcGhh"
+my_password="xxxx"
 date=$(date +%Y%m%d)
 rootbackupdirectory="/tmp/mysqldumps/"
 backupdirectory="/tmp/mysqldumps/$date"
